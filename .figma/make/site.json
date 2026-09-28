@@ -1,0 +1,10 @@
+{
+  "description": "Create personalized digital birthday presentations with a minimalist design, featuring customizable photo slides and interactive elements for memorable celebrations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
